@@ -1,6 +1,6 @@
 /*
 Author       : Dreamguys
-Template Name: Preskool - Bootstrap Admin Template
+Template Name: Career Infotech - Bootstrap Admin Template
 Version      : 1.0
 */
 
